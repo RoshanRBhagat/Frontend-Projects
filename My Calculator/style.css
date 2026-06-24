@@ -60,3 +60,8 @@ button{
 .operators{
     color: green;
 }
+
+button:hover{
+    background-color: white;
+    color: black;
+}
